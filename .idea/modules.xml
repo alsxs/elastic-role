@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/elastic-role.iml" filepath="$PROJECT_DIR$/.idea/elastic-role.iml" />
       <module fileurl="file://$PROJECT_DIR$/../git/.idea/git.iml" filepath="$PROJECT_DIR$/../git/.idea/git.iml" />
       <module fileurl="file://$PROJECT_DIR$/../kibana-role/.idea/kibana-role.iml" filepath="$PROJECT_DIR$/../kibana-role/.idea/kibana-role.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../teamcity/.idea/teamcity.iml" filepath="$PROJECT_DIR$/../teamcity/.idea/teamcity.iml" />
     </modules>
   </component>
 </project>

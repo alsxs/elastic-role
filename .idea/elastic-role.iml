@@ -6,5 +6,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="kibana-role" />
     <orderEntry type="module" module-name="git" />
+    <orderEntry type="module" module-name="teamcity" />
   </component>
 </module>
